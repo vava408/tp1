@@ -8,4 +8,4 @@
 
 ### Compte-rendu TP1 Introduction GIT
 
-Dans ce TP on apprend à travailler avec git.
+Dans ce TP on apprend à travailler avec git. Et a mettre a jours notre git
