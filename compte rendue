@@ -1,0 +1,17 @@
+[lv241103@c-di-724-05 tp1]$ git config --global user.name "Valentin Lemaitre"
+[lv241103@c-di-724-05 tp1]$ git config --global user.email valentinlemaitre06@gmail.com
+[lv241103@c-di-724-05 tp1]$ git config --global core.editor "code"
+[lv241103@c-di-724-05 tp1]$ git config --list
+user.name=Valentin Lemaitre
+user.email=valentinlemaitre06@gmail.com
+core.editor=code
+[lv241103@c-di-724-05 tp1]$  git config user.name
+Valentin Lemaitre
+[lv241103@c-di-724-05 tp1]$ git config user.email
+valentinlemaitre06@gmail.com
+
+
+git init :  creer le depot 
+
+git status : affiche les modifications effectuer dans le fichier 
+
