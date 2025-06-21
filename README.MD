@@ -43,22 +43,7 @@ Configuration de l’identité et de l’éditeur avec :
 ```bash
 git config --global user.name "Prénom Nom"
 git config --global user.email "email@example.com"
-git config --global core.editor nano
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+git config --global core.editor nano```
 
 
 
